@@ -1,0 +1,13 @@
+C:\Users\abdul\source\repos\Pizza Project\bin\Debug\Pizza Project.exe.config
+C:\Users\abdul\source\repos\Pizza Project\bin\Debug\Pizza Project.exe
+C:\Users\abdul\source\repos\Pizza Project\bin\Debug\Pizza Project.pdb
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.exe
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza Project.pdb
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza_Project.frmMainForm.resources
+C:\Users\abdul\source\repos\Pizza Project\obj\Debug\Pizza_Project.Form2.resources
