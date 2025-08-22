@@ -1,5 +1,3 @@
-"# Project-8 _ Pizza" 
-
 # 🍕 Project-8: Pizza Order System
 
 ## 👤 Author: Mustafa A. Ibrahim
